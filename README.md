@@ -2,7 +2,7 @@
 
 Установить пакет:
 
-```sudo apt install iwd``
+```sudo apt install iwd```
 
 Скачать файл и сделать его исполняемым:
 
