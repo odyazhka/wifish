@@ -25,8 +25,6 @@ while true; do
 a)
       echo "[*] Запуск сканирования..."
       wpa_cli scan > /dev/null
-      
-      echo "[*] Ожидание 3 секунды..."
       sleep 3
       
       echo "[*] Доступные сети:"
